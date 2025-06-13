@@ -1,7 +1,7 @@
 # Heart Disease Prediction 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chayandatta/Heart_disease_prediction/master)
+[![Binder](https://mybinder.org/badge_logo.svg)]()
 
-[Final code](https://github.com/chayandatta/Heart_disease_prediction/blob/master/heart_Disease.ipynb)
+[Final code]()
 
 Welcome to the **Heart Disease Prediction** GitHub repository! This project is designed to help beginners learn the fundamentals of machine learning in a hands-on and interactive way. Whether you're completely new to machine learning or looking to refresh your knowledge, this repository has something for you.
 
@@ -87,7 +87,6 @@ then improved accuracy by adjusting different aspect of algorithms.
 
 ```
 
-![](https://raw.githubusercontent.com/chayandatta/Heart_disease_prediction/master/download.png) 
 
 > Final Decision tree
 
